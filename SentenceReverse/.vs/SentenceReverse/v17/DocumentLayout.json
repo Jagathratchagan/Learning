@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\SentenceReverse\\",
+  "WorkspaceRootPath": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1524EF06-77FF-4B4D-9B70-27C7520FD162}|SentenceReverse.csproj|d:\\myprojects\\learning\\c#\\sentencereverse\\sentencereverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{142BEFE9-2620-4FF7-92B6-15F197C8E892}|..\\ReturnIndices\\ReturnIndices\\ReturnIndices.csproj|d:\\myprojects\\learning\\c#\\returnindices\\returnindices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524EF06-77FF-4B4D-9B70-27C7520FD162}|SentenceReverse.csproj|d:\\myprojects\\learning\\c#\\sentencereverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1524EF06-77FF-4B4D-9B70-27C7520FD162}|SentenceReverse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +23,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\SentenceReverse\\Program.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Learning\\C#\\ReturnIndices\\ReturnIndices\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ReturnIndices\\ReturnIndices\\Program.cs",
+              "ToolTip": "D:\\MyProjects\\Learning\\C#\\ReturnIndices\\ReturnIndices\\Program.cs",
+              "RelativeToolTip": "..\\ReturnIndices\\ReturnIndices\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:56:38.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\SentenceReverse\\Program.cs",
+              "ToolTip": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

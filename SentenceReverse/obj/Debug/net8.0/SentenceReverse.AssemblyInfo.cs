@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SentenceReverse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+175378716c19a0f536c8eadd436a5345abfb0a87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+917a3104d378a084efa048276c4a4e99a7072129")]
 [assembly: System.Reflection.AssemblyProductAttribute("SentenceReverse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SentenceReverse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
