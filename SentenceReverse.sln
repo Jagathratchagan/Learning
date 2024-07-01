@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenceReverse", "SentenceReverse.csproj", "{1524EF06-77FF-4B4D-9B70-27C7520FD162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentenceReverse", "SentenceReverse.csproj", "{1524EF06-77FF-4B4D-9B70-27C7520FD162}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SentenceReverse", "SentenceReverse", "{7B1FBB15-EFAA-4785-9F62-387B67B84FCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1524EF06-77FF-4B4D-9B70-27C7520FD162} = {7B1FBB15-EFAA-4785-9F62-387B67B84FCA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC8B1C1B-D385-4B2A-B450-DB51BAEC42BF}
