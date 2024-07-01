@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\SentenceReverse.csproj",
+      "projectUniqueName": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\SentenceReverse\\SentenceReverse.csproj",
       "projectName": "SentenceReverse",
-      "projectPath": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\SentenceReverse.csproj",
+      "projectPath": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\SentenceReverse\\SentenceReverse.csproj",
       "packagesPath": "C:\\Users\\Jagathratchagan\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\obj\\",
+      "outputPath": "D:\\MyProjects\\Learning\\C#\\SentenceReverse\\SentenceReverse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jagathratchagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
