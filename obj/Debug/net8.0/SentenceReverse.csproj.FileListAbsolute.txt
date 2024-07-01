@@ -1,0 +1,15 @@
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\bin\Debug\net8.0\SentenceReverse.exe
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\bin\Debug\net8.0\SentenceReverse.deps.json
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\bin\Debug\net8.0\SentenceReverse.runtimeconfig.json
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\bin\Debug\net8.0\SentenceReverse.dll
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\bin\Debug\net8.0\SentenceReverse.pdb
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\SentenceReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\SentenceReverse.AssemblyInfoInputs.cache
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\SentenceReverse.AssemblyInfo.cs
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\SentenceReverse.csproj.CoreCompileInputs.cache
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\SentenceReverse.sourcelink.json
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\SentenceReverse.dll
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\refint\SentenceReverse.dll
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\SentenceReverse.pdb
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\SentenceReverse.genruntimeconfig.cache
+D:\MyProjects\Leaerning\C#\SentenceReverse\SentenceReverse\obj\Debug\net8.0\ref\SentenceReverse.dll
