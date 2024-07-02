@@ -1,0 +1,6 @@
+@EmbeddedSQL_HostAddress = http://localhost:5033
+
+GET {{EmbeddedSQL_HostAddress}}/index.html/
+Accept: application/json
+
+###
